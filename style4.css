@@ -1,0 +1,16 @@
+body {
+	background-color: yellow !important;
+	text-align: center;
+}
+
+.boja {
+	background-color: red;
+}
+
+.bojaDruga	{
+	background-color: orange;
+}
+
+#vispec {
+	background-color: blue;
+}
